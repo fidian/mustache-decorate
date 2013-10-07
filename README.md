@@ -54,7 +54,7 @@ I Want More!
 When you use this DecoratedObject, you are able to add more things to its prototype and will also be available to objects when they go to the view.  You can have methods that will show trees, localize text, convert dates into a more readable version and more.
 
 License
--------
+=======
 
 This code is released under a MIT license with an additional non-advertising clause.  The full text is available in the LICENSE.md file in the repository.
 
